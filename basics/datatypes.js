@@ -18,3 +18,14 @@ let isLoggedIn = false// Boolean
 //object
 
 console.log(typeof "hitesh")//gives the type of data
+
+
+//Primitive
+  // 7 types :String,Number,Boolean,null,undefined,Symbol,BigInt
+
+//Reference
+  //Array,Objects,Functions
+  
+//******Memory ***********/
+
+//Stack=>Primitve  ,,Heap=>Referenc

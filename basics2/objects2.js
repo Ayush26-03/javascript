@@ -43,4 +43,7 @@ const{ins:instructor}=course
 
 console.log(ins)
 
+
+
+
  
